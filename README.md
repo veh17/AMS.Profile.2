@@ -23,7 +23,7 @@ This is an iteration loop by the way.
 3. Re-creates the entry with its original value in the current iteration, and uses the new name specified if it matches the original name given.
 
 ## Code Has Been Tested
-I have tested both methods with an ini file containing several sections, and several entries for each section.
+I have tested both methods with an ini file containing several sections, and several entries for each section. I made everything was in order every time there was a change in the file without something be added.
 
 ## Download
 [AMS.Profile.2.dll](https://github.com/Lexz-08/AMS.Profile.2/releases/download/ams.profile.2/AMS.Profile.2.dll)
