@@ -22,5 +22,8 @@ This is an iteration loop by the way.
 2. Uses **Ini.RemoveEntry(string, string)** in the original dll to remove the entry in the current iteration.
 3. Re-creates the entry with its original value in the current iteration, and uses the new name specified if it matches the original name given.
 
+## Has Been Tested
+I have tested both methods with an ini file containing several sections, and several entries for each section.
+
 ## Download
 [AMS.Profile.2.dll](https://github.com/Lexz-08/AMS.Profile.2/releases/download/ams.profile.2/AMS.Profile.2.dll)
