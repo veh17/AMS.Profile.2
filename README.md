@@ -27,3 +27,6 @@ I have tested both methods with an ini file containing several sections, and sev
 
 ## Download
 [AMS.Profile.2.dll](https://github.com/Lexz-08/AMS.Profile.2/releases/download/ams.profile.2/AMS.Profile.2.dll)
+
+## Original DLL
+[AMS.Profile](https://www.nuget.org/packages/Ams.Profile/)
