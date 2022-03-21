@@ -10,7 +10,7 @@ Here are the features that don't exist on the original that I added:
     - You give the specific section, the original entry name, and the new entry name, and the old is replaced by the new.
 
 ## How It Works
-### Ini.ChangeSection(string, string)
+### Ini.ChangeSectionName(string, string)
 1. Uses the [StreamReader](https://docs.microsoft.com/en-us/dotnet/api/system.io.streamreader?view=net-6.0) class to get the original file contents.
 2. Replaces the section name found in the file string with the new name.
 3. Uses the [File](https://docs.microsoft.com/en-us/dotnet/api/system.io.file?view=net-6.0) class to delete the original file and create a new blank one.
